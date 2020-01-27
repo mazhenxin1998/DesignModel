@@ -1,6 +1,6 @@
 package com.mzx.bridge;
 
-import org.omg.IOP.ComponentIdHelper;
+        import org.omg.IOP.ComponentIdHelper;
 
 /**
  * @author ZhenXinMa
