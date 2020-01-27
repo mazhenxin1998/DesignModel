@@ -1,0 +1,20 @@
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+
+actor user #blue
+participant user2 #grey
+
+boundary 边界 #blue
+control 控制 #green
+entity 实体  #pink
+database 数据库 #yellow
+
+
+
+
+
+@enduml
