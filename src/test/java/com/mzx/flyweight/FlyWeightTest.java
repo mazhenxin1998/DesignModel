@@ -26,6 +26,5 @@ public class FlyWeightTest {
         System.out.println("-----");
         System.out.println(x1 == y1);
 
-
     }
 }

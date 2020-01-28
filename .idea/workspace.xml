@@ -62,13 +62,13 @@
       <recent name="D:\Study\Java\IDEACode\JavaDesignModel\src\main\java\com\mzx\prototype\sheep\teacher" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FlyWeightTest">
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mzx.extendstest.Client" />
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mzx.proxy.staticproxy.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mzx.extendstest.*" />
+          <option name="PATTERN" value="com.mzx.proxy.staticproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.FlyWeightTest" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,7 @@
       <workItem from="1580124372784" duration="21000" />
       <workItem from="1580124397121" duration="4055000" />
       <workItem from="1580128469124" duration="2598000" />
-      <workItem from="1580192870615" duration="9414000" />
+      <workItem from="1580192870615" duration="11026000" />
     </task>
     <servers />
   </component>
@@ -185,14 +185,14 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1580213637096">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1580216263921">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1580213637096" />
-    <state x="381" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580124982021">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1580216263921" />
+    <state x="381" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580215004279">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="381" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1580124982021" />
+    <state x="381" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1580215004279" />
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580029648181">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -201,22 +201,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1579771100841" />
-    <state width="1493" height="455" key="GridCell.Tab.0.bottom" timestamp="1580214719405">
+    <state width="1493" height="455" key="GridCell.Tab.0.bottom" timestamp="1580216367931">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="455" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580214719405" />
-    <state width="1493" height="455" key="GridCell.Tab.0.center" timestamp="1580214719404">
+    <state width="1493" height="455" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580216367931" />
+    <state width="1493" height="455" key="GridCell.Tab.0.center" timestamp="1580216367931">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="455" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580214719404" />
-    <state width="1493" height="455" key="GridCell.Tab.0.left" timestamp="1580214719404">
+    <state width="1493" height="455" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580216367931" />
+    <state width="1493" height="455" key="GridCell.Tab.0.left" timestamp="1580216367931">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="455" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580214719404" />
-    <state width="1493" height="455" key="GridCell.Tab.0.right" timestamp="1580214719405">
+    <state width="1493" height="455" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580216367931" />
+    <state width="1493" height="455" key="GridCell.Tab.0.right" timestamp="1580216367931">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="455" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580214719405" />
+    <state width="1493" height="455" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580216367931" />
     <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1580024626054">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
