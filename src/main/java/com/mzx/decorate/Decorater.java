@@ -6,6 +6,9 @@ import lombok.ToString;
 /**
  * @author ZhenXinMa
  * @date 2020/1/27 21:39
+ *
+ *      装饰者模式
+ *
  */
 @Data
 @ToString

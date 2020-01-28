@@ -62,7 +62,7 @@
       <recent name="D:\Study\Java\IDEACode\JavaDesignModel\src\main\java\com\mzx\prototype\sheep\teacher" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
+  <component name="RunManager" selected="Application.Client (3)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mzx.bridge.Client" />
       <module name="DesignPatterns" />
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mzx.adapter.classadapter.Client" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mzx.extendstest.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mzx.adapter.classadapter.*" />
+          <option name="PATTERN" value="com.mzx.extendstest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (5)" />
-        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,8 @@
       <workItem from="1580102528934" duration="4022000" />
       <workItem from="1580124372784" duration="21000" />
       <workItem from="1580124397121" duration="4055000" />
-      <workItem from="1580128469124" duration="1797000" />
+      <workItem from="1580128469124" duration="2598000" />
+      <workItem from="1580192870615" duration="1468000" />
     </task>
     <servers />
   </component>
@@ -200,22 +201,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1579771100841" />
-    <state width="1493" height="320" key="GridCell.Tab.0.bottom" timestamp="1580133165071">
+    <state width="1493" height="320" key="GridCell.Tab.0.bottom" timestamp="1580195254670">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="320" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580133165071" />
-    <state width="1493" height="320" key="GridCell.Tab.0.center" timestamp="1580133165071">
+    <state width="1493" height="320" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580195254670" />
+    <state width="1493" height="320" key="GridCell.Tab.0.center" timestamp="1580195254670">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="320" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580133165071" />
-    <state width="1493" height="320" key="GridCell.Tab.0.left" timestamp="1580133165071">
+    <state width="1493" height="320" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580195254670" />
+    <state width="1493" height="320" key="GridCell.Tab.0.left" timestamp="1580195254670">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="320" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580133165071" />
-    <state width="1493" height="320" key="GridCell.Tab.0.right" timestamp="1580133165071">
+    <state width="1493" height="320" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580195254670" />
+    <state width="1493" height="320" key="GridCell.Tab.0.right" timestamp="1580195254670">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="320" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580133165071" />
+    <state width="1493" height="320" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580195254670" />
     <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1580024626054">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -224,10 +225,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580124974248" />
-    <state x="430" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580124373732">
+    <state x="430" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580192912173">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="430" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580124373732" />
+    <state x="430" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580192912173" />
     <state x="540" y="93" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580127005661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
