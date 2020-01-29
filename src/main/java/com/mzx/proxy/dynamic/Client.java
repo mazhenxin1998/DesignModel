@@ -13,8 +13,8 @@ public class Client {
         ProxyFactory factory = new ProxyFactory(teacherDao);
 
         ITeacherDao teacherDaoProxy = (ITeacherDao) factory.getProxyInstance();
-        teacherDaoProxy.teach();
-        //teacherDaoProxy.say("张三");
+        //teacherDaoProxy.teach();
+        teacherDaoProxy.say("张三");
 
         System.out.println("-------");
 
