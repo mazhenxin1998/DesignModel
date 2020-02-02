@@ -1,6 +1,6 @@
 package com.mzx.command;
 
-import lombok.AllArgsConstructor;
+        import lombok.AllArgsConstructor;
 
 /**
  * @author ZhenXinMa
