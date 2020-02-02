@@ -19,5 +19,7 @@ public class Client {
 
         OutputImpl out = new OutputImpl(colleges);
         out.printCollege();
+        System.out.println("测试");
+
     }
 }
