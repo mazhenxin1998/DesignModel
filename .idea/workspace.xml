@@ -62,7 +62,7 @@
       <recent name="D:\Study\Java\IDEACode\JavaDesignModel\src\main\java\com\mzx\prototype\sheep\teacher" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (3)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mzx.iterator.Client" />
       <module name="DesignPatterns" />
@@ -76,12 +76,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mzx.command.Client" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mzx.observer.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mzx.command.*" />
+          <option name="PATTERN" value="com.mzx.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mzx.observer.improve.Client" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mzx.observer.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,19 +108,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.mzx.iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mzx.swingtest.Login" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mzx.swingtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.ComputerCollegeIterator" />
         <item itemvalue="Application.text" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,8 @@
       <workItem from="1580284972164" duration="3502000" />
       <workItem from="1580373590458" duration="3442000" />
       <workItem from="1580540056612" duration="6641000" />
-      <workItem from="1580630143273" duration="3615000" />
+      <workItem from="1580630143273" duration="4648000" />
+      <workItem from="1580710786792" duration="2237000" />
     </task>
     <servers />
   </component>
@@ -189,10 +190,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1580636046574">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1580713328926">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1580636046574" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1580713328926" />
     <state x="381" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580215004279">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -209,22 +210,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1579771100841" />
-    <state width="1493" height="594" key="GridCell.Tab.0.bottom" timestamp="1580636810228">
+    <state width="1493" height="594" key="GridCell.Tab.0.bottom" timestamp="1580713489967">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="594" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580636810228" />
-    <state width="1493" height="594" key="GridCell.Tab.0.center" timestamp="1580636810228">
+    <state width="1493" height="594" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580713489967" />
+    <state width="1493" height="594" key="GridCell.Tab.0.center" timestamp="1580713489967">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="594" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580636810228" />
-    <state width="1493" height="594" key="GridCell.Tab.0.left" timestamp="1580636810228">
+    <state width="1493" height="594" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580713489967" />
+    <state width="1493" height="594" key="GridCell.Tab.0.left" timestamp="1580713489967">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="594" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580636810228" />
-    <state width="1493" height="594" key="GridCell.Tab.0.right" timestamp="1580636810228">
+    <state width="1493" height="594" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580713489967" />
+    <state width="1493" height="594" key="GridCell.Tab.0.right" timestamp="1580713489967">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="594" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580636810228" />
+    <state width="1493" height="594" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580713489967" />
     <state width="1493" height="360" key="GridCell.Tab.1.bottom" timestamp="1580306748680">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -249,10 +250,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="142" y="26" width="1272" height="715" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580547802222" />
-    <state x="430" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580630815547">
+    <state x="430" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580711438294">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="430" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580630815547" />
+    <state x="430" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580711438294" />
     <state x="540" y="93" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580127005661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
