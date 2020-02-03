@@ -8,5 +8,4 @@ public interface Observer {
 
     void upData(int temperatrue,int pressure,int humidity);
 
-
 }
